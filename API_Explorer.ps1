@@ -1,7 +1,8 @@
 # ====================================================================
 #  API Explorer Script
 # ====================================================================
-# Just a quick script I made that enumerates through a rest API call and gets information. Also shows you how to interact with Azure REST APIs.
+# Just a quick script I made that enumerates through a rest API call and gets information. This is helpful when trying to find the appropriate values for bicep templates.
+# Also shows you how to interact with Azure REST APIs.
 
 
 $sub = "<azure_subscription>"
