@@ -1,2 +1,2 @@
 # azure_scripts
-Random Scripts from the field
+Random scripts that I created while working in the field. 
