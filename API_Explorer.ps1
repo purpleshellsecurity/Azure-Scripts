@@ -1,3 +1,9 @@
+# ====================================================================
+#  API Explorer Script
+# ====================================================================
+# Just a quick script I made that enumerates through a rest API call and gets information. Also shows you how to interact with Azure REST APIs.
+
+
 $sub = "<azure_subscription>"
 $rg = "<azure_rg>"
 $wk = "<loganalyticsworkspace>"
