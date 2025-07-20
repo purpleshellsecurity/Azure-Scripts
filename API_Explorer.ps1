@@ -49,6 +49,9 @@ Write-Host "Expanded Properties:" -ForegroundColor Green
 Write-Host "=====================================" -ForegroundColor Green
 $response.value | Select-Object name -ExpandProperty properties
 
+Write-Host "When there's dup fields:" -ForegroundColor Green
+Write-Host "=====================================" -ForegroundColor Green
+$response.value.properties
 
 Write-Host "`API STRUCTURE MAP:" -ForegroundColor Green
 Write-Host "=====================================" -ForegroundColor Green
